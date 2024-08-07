@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tung Tran from the US, an Illustrator & Concept Artist who also focuses on Design & Development! I've enjoyed being creative in the entertainment arts world and learning coding languages like Python, JS, and C++!
+I'm Tung Tran from the US, an 🎨 Illustrator & ✏ Concept Artist who also focuses on Design & Development! I've enjoyed being creative in the entertainment arts world and learning coding languages like Python, JS, and C++!
 
 <!--
 **tung-tt/tung-tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=tung-tt&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tung-tt&theme=dark&mode=weekly)](https://git.io/streak-stats)
