@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 </br>
-<h2 align="center">📝&nbsp;Skills</h2>
+<h2 align="center">🎏&nbsp;Skills</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,cpp">
