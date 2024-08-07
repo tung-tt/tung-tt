@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-![GitHub Snake Light](https://raw.githubusercontent.com/minhd-vu/tung-tt/output/snake-light.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/minhd-vu/tung-tt/output/snake-dark.svg#gh-dark-mode-only)
 
 <h2 align="center">👋&nbsp;Connect</h2>
 
