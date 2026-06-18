@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tungotran/"><img alt="LinkedIn" src="https://img.shields.io/badge/-tungotran-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/tung_t_tran/"><img alt="Instagram" src="https://img.shields.io/badge/tung_t_tran-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://twitter.com/tung_t_tran"><img alt="Twitter" src="https://img.shields.io/badge/tung_t_tran-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/tungotran/"><img alt="Instagram" src="https://img.shields.io/badge/tung_t_tran-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://twitter.com/tungo.tran"><img alt="Twitter" src="https://img.shields.io/badge/tung_t_tran-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
   <a href="mailto:yungtungtt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-yungtungtt@gmail.com-c14438?style=flat&logo=gmail&logoColor=white"></a>
 </div>
