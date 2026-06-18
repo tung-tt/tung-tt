@@ -18,12 +18,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai">
 </div>
 </br>
-</br>
-<h2 align="center">📈&nbsp;GitHub Stats</h2>
-
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=tung-tt)](https://git.io/streak-stats)
-</div>
 
 </br>
 
