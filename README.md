@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center">📈&nbsp;GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tung-tt&theme=blueberry&hide_border=true" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=tung-tt)](https://git.io/streak-stats)
 </div>
 
 </br>
