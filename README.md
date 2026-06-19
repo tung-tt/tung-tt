@@ -1,7 +1,8 @@
 <h2 align="center">👨‍🎨&nbsp;About Me</h2>
 
-<p align="center">I'm Tung Tran from the US, an 🎨 Illustrator & ✏ Concept Artist who also focuses on Design & Development!</p>
-<p align="center">I've enjoyed being creative in the entertainment art world and learning coding languages like Python, JS, and C++!</p>
+<p align="center">My name is Tung Tran</p>
+<p align="center">a 25 year old Cybersecurity enthusiast and Developer based in the DMV area\
+  Looking for roles in Cybersecurity Defensive Operations, including SOC, Incident Response, and Threat Hunting.</p>
 
 
 <!--
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 <h2 align="center">🎏&nbsp;Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp">
+  <img src="https://skillicons.dev/icons?i=mysql,python,js,c,cpp">
 </br>
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai">
 </div>
