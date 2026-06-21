@@ -8,11 +8,6 @@
   By night I'm an illustrator, art director, and creative who thinks in systems — visual or otherwise.
 </p>
 
-<p align="center">
-  If you can build it, you can break it. If you can break it, you can understand it.<br/>
-  That's the loop I live in.
-</p>
-
 ---
 
 <h2 align="center">🛡️ &nbsp;Security Focus</h2>
