@@ -27,7 +27,7 @@
 <h2 align="center">🎨 &nbsp;The Creative Side</h2>
 
 <p align="center">
-  Security isn't the whole story. I bring a visual eye and production background to everything I build —<br/>
+  Alongside security, I prioritize a layer of visuals and user experience to everything I build —<br/>
   from dashboards to documentation, aesthetics and function are never separate concerns.
 </p>
 
